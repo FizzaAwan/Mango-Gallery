@@ -1,5 +1,5 @@
 # MangoGallery
-Fizza Awan Fall 2024 WebDesign 
+Fizza Masood Fall 2024 WebDesign 
 
 Spa for art gallery using react and bootstrap
 
