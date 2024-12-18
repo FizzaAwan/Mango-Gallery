@@ -1,0 +1,54 @@
+/* Frosted glass navbar */
+.navbar-frosted {
+    background-color: rgba(255,255,255,0.5);
+    backdrop-filter: blur(10px);
+  }
+  
+  /* Parallax section */
+  .parallax-section {
+    height: 60vh;
+    background-image: url('/public/images/parallax-bg.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+  }
+  
+  /* Frame effect for the art pieces */
+  .art-frame {
+    border: 10px solid #3e2723;   /* dark wood color */
+    padding: 0;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    background-color: #fff;
+  }
+  
+  .art-frame img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 5px solid #8b5e3c; /* Frame color */
+    margin: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Plaque style */
+  .art-plaque {
+    background: #f6f0e4; /* old parchment color */
+    padding: 10px;
+    font-size: 0.9rem;
+    color: #333;
+    border: 1px solid #ccc;
+    font-family: 'Georgia', serif;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .gallery-item-container {
+      flex-direction: column;
+    }
+  }
+  

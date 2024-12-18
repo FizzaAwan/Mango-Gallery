@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "The Night Watch",
+    "artist": "Rembrandt van Rijn",
+    "year": "1642",
+    "imageUrl": "/images/1074px-The_Night_Watch_-_HD.jpg",
+    "description": "A masterpiece of the Dutch Golden Age depicting a city militia group led by Captain Frans Banning Cocq."
+  },
+  {
+    "id": 2,
+    "title": "The Assuaging of the Waters",
+    "artist": "John Martin",
+    "year": "1840",
+    "imageUrl": "/images/the-assuaging-of-the-waters-john-martin.jpg",
+    "description": "A romantic depiction of a biblical scene showing the calm after the Great Flood."
+  },
+  {
+    "id": 3,
+    "title": "Martin Luther at the Diet of Worms",
+    "artist": "Unknown",
+    "year": "16th Century",
+    "imageUrl":"/images/topic-reformation-marthin-luther-gettyimages-113493491-feature.jpg",
+    "description": "A dramatic scene portraying Martin Luther defending his reforms in front of the imperial council."
+  },
+  {
+    "id": 4,
+    "title": "Noli Me Tangere",
+    "artist": "Hans Holbein the Younger",
+    "year": "1524",
+    "imageUrl":"/images/Noli_me_tangere_by_Hans_Holbein_d._J._-_Hampton_Court_Palace.jpg", 
+    "description": "A Renaissance depiction of Jesus and Mary Magdalene after the resurrection."
+  },
+  {
+    "id": 5,
+    "title": "Human Frailty",
+    "artist": "Salvator Rosa",
+    "year": "1656",
+    "imageUrl":"/images/Salvator-Rosa-Human-Frailty-.jpg",
+    "description": "An allegorical painting showing a mother and child confronted by death, reflecting the fragility of human life."
+  },
+  {
+    "id": 6,
+    "title": "Witches at Their Incantations",
+    "artist": "Salvator Rosa",
+    "year": "1646",
+    "imageUrl": "/images/the-national-gallery-level-2-1600-1700-salvator-rosa-witches-at-their-incantations-2-1024x1024.jpg",
+    "description": "A dark and eerie painting depicting witches performing their rituals, showcasing Rosa's fascination with the supernatural."
+  }
+]
